@@ -1,3 +1,7 @@
+package com.testers;
+
+import com.some.figures.*;
+
 public class Tester {
     public static void main(String[] args){
         Printer printer = new Printer();

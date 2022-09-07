@@ -1,4 +1,6 @@
-public class Rectangle extends Shape{
+package com.some.figures;
+
+public class Rectangle extends Shape {
     private int height;
     private int width;
 

@@ -1,3 +1,7 @@
+package com.testers;
+
+import com.some.figures.Shape;
+
 public class Printer {
     public void printName(Shape shape){
         System.out.println(String.join(" ","Shape name is",shape.getName()));

@@ -1,4 +1,8 @@
-public class Sphere extends Circle{
+package com.some.figures;
+
+import com.some.figures.Circle;
+
+public class Sphere extends Circle {
     public Sphere(){
     }
     public Sphere(int radius){

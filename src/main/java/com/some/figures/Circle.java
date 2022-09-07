@@ -1,4 +1,6 @@
-public class Circle extends Shape{
+package com.some.figures;
+
+public class Circle extends Shape {
     protected int radius;
 
     public Circle(){

@@ -1,4 +1,6 @@
-public class Triangle extends Shape{
+package com.some.figures;
+
+public class Triangle extends Shape {
     private int side;
     private int height;
 

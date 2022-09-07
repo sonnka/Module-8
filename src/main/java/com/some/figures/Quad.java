@@ -1,4 +1,6 @@
-public class Quad extends Shape{
+package com.some.figures;
+
+public class Quad extends Shape {
     private int side;
     public Quad(){
     }
